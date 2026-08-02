@@ -71,7 +71,7 @@ The final output is a clean, interactive Excel dashboard supported by KPIs, Pivo
 
 ## 🖼️ Dashboard Preview
 
-![Pizza Sales Dashboard](image/Dashboard_Image.png)
+[Pizza Sales Dashboard](image/Dashboard_Image.png)
 
 ---
 
