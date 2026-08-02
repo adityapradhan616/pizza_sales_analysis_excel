@@ -67,8 +67,6 @@ The final output is a clean, interactive Excel dashboard supported by KPIs, Pivo
 | `Dashboard_Image.png` | Dashboard preview images |
 | `Pizza_Sales_Analysis.pptx` | PowerPoint summary of the dashboard analysis and key insights |
 
----
-
 
 ---
 
